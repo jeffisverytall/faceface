@@ -2,4 +2,4 @@
 
 $faceface = "holy hell";
 
-echo = $faceface
+echo = $faceface;
